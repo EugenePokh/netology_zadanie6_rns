@@ -1,0 +1,3 @@
+﻿data (размещение наших датасетов)
+https://www.python.org/downloads/windows/
+pip install torch torchvision matplotlib
